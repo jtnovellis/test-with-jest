@@ -1,0 +1,11 @@
+{
+  "name": "test-with-jest",
+  "version": "1.0.0",
+  "description": "testing with jest",
+  "main": "robot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jairo toro || daniel moreno",
+  "license": "ISC"
+}
